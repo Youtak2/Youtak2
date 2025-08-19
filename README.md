@@ -35,9 +35,3 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #1E3A8A;">📊 Metrics (Auto)</h2>
-  <!-- metrics.yml 워크플로가 리포 루트에 metrics.svg를 생성/갱신합니다 -->
-  <img src="./metrics.svg" alt="metrics"/>
-</div>
