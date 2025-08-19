@@ -1,6 +1,3 @@
-<!-- Top Badge (Org) -->
-[![siseon.io](https://img.shields.io/badge/siseon.io-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siseon-io/siseon)
-
 <!-- Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Youtak2's%20GitHub&animation=fadeIn&fontColor=FFFFFF&fontSize=54&color=gradient" alt="header"/>
@@ -50,11 +47,3 @@
 </div>
 
 <br/>
-
-<!-- Now Building -->
-<div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #1E3A8A;">🚀 Now Building</h2>
-  <b>SISEON</b> — 시선·자세 인식 기반 AI 스마트 모니터 암 (Edge AI → BLE → App)
-  <br/>
-  <a href="https://github.com/siseon-io/siseon">▶ View Project</a>
-</div>
