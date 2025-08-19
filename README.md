@@ -1,7 +1,6 @@
 <div align="center">
 
 # 🔵 Youtak2 Profile
-**AIoT · Flutter · BLE/MQTT · Django & Vue Fintech**
 
 <!-- 팔레트 안내: #1E3A8A(헤더), #3B82F6(포인트), #EF4444(액센트) -->
 
