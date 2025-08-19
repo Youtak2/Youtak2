@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Youtak2's%20GitHub&animation=fadeIn&fontColor=FFFFFF&fontSize=54&color=gradient" alt="header"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=3000&pause=1200&color=1E3A8A&center=true&vCenter=true&width=700&lines=AIoT+·+Flutter+·+BLE%2FMQTT;Django+%26+Vue+Fintech;Edge+AI+to+App+%26+Cloud" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=3000&pause=1200&color=1E3A8A&center=true&vCenter=true&width=700&lines=AIoT+·+Flutter+·+BLE%2FMQTT;Django+%26+Vue+Fintech;Edge+AI+to+App+%26+Cloud"/>
 </div>
 
 <!-- Quick badges -->
